@@ -59,17 +59,6 @@ I design and ship **production-oriented ML solutions** across healthcare, predic
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DArmandoSalinas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DArmandoSalinas&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
-
-</div>
-
----
-
 ## 📫 Let's connect
 
 Open to **ML engineering**, **healthcare AI**, and **intelligent systems** collaborations.
